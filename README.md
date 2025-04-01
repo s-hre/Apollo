@@ -15,3 +15,6 @@ how did i do it..? I'm fast, and you're slow, thats how I did it.
 ## How to install
 Firstly, go to [Releases](https://github.com/s-hre/Apollo-Project/releases/tag/v0.1) and install `apollo.bat`, you will see a `shaveinstaller.exe` but that is not needed,
 once you install the `apollo.bat` run it! from there, agree, and install!
+
+### credits
+credits to brody for the idea, inspiration, and coding.
