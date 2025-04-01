@@ -12,6 +12,8 @@ why not? who doesnt wanna play games in class?
 
 how did i do it..? I'm fast, and you're slow, thats how I did it.
 
+please if you can, help with my side project [ArtemisWeb](https://github.com/s-hre/ArtemisWeb)
+
 ## How to install
 Firstly, go to [Releases]([https://github.com/s-hre/Apollo-Project/releases/tag/v0.1](https://github.com/s-hre/Apollo/releases)) and install `apollo.bat`, you will see a `shaveinstaller.exe` but that is not needed,
 once you install the `apollo.bat` run it! from there, agree, and install!
