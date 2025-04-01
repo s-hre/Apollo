@@ -1,9 +1,19 @@
 # Apollo Nightly
-Looks like you found the nightly build for Apollo, congrats!
-If this wasn't what you were looking for, heres the [main project.](https://github.com/s-hre/Apollo-Project)
-but if this was then, let me tell you about our (my) nightly build!
-## Uses and Udos
-Apollo nightly is for developers to check their compatability without having to wait for a whole new build to release,
-Apollo nightly will get far more consistent (and far more unstable) releases.
+Apollo nightly is a debloated version of Apollo that is more widely accesible on older and slower laptops,
+>
+> it has all of the same features as Apollo, and loads faster too, so if you have an older model laptop, id recomend using nightly,
+nightly is also a pre-release platform of all Apollo versions,
+
+not sure if theres much more i can add, thats really all there is
+
+## NOTICES
+> [!CAUTION]
+> **Apollo** and or **Apollo _Nightly_** DOES have a chance of flagging your computer, so please take caution.
+
 > [!NOTE]
-> Even if you are a developer, i still would reccomend using the stable releases rather than the nightly build.
+> **Apollo** and or **Apollo _Nightly_** is not responsible for any, and I mean **_ANY_** misuse of student devices.
+
+### credits
+credits to brody for the idea, inspiration, and coding.
+
+
