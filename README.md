@@ -1,20 +1,9 @@
-# The Apollo Project
-Welcome to the **_Apollo_ project!** a project started **(and <ins>_hopefully_</ins> finished)** by shorebanks
-> what does the **_Apollo_ project** do for my computer?
-
-Well kind soul, im glad you asked!
-the **Apollo** project, grants access to far more applications on your school computer,
-many, which i will be providing myself
-> why?
-
-why not? who doesnt wanna play games in class?
-> how did you do it?
-
-how did i do it..? I'm fast, and you're slow, thats how I did it.
-
-## How to install
-Firstly, go to [Releases](https://github.com/s-hre/Apollo-Project/releases/tag/v0.1) and install `apollo.bat`, you will see a `shaveinstaller.exe` but that is not needed,
-once you install the `apollo.bat` run it! from there, agree, and install!
-
-### credits
-credits to brody for the idea, inspiration, and coding.
+# Apollo Nightly
+Looks like you found the nightly build for Apollo, congrats!
+If this wasn't what you were looking for, heres the [main project.](https://github.com/s-hre/Apollo-Project)
+but if this was then, let me tell you about our (my) nightly build!
+## Uses and Udos
+Apollo nightly is for developers to check their compatability without having to wait for a whole new build to release,
+Apollo nightly will get far more consistent (and far more unstable) releases.
+> [!NOTE]
+> Even if you are a developer, i still would reccomend using the stable releases rather than the nightly build.
