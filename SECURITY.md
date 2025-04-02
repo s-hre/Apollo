@@ -1,21 +1,19 @@
-# Security Policy
+# Supported Systems
 
-## Supported Versions
+Apollo and or Apollo nightly is not compatible with every operating system, heres our current systems and ones were working on getting compatible.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
+| OS | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Windows   | :white_check_mark: |
+| Linux   | :x:                |
+| Mac   | :x: |
+| ChromeOS   | :x:                |
 
-## Reporting a Vulnerability
+## Systems currently in progress
+this is a list of operating systems in progress for Apollo and Apollo nightly.
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+| OS | In Progress          |
+| ------- | ------------------ |
+| Linux   | :x:                |
+| Mac   | ✅ |
+| ChromeOS   | ✅               |
