@@ -1,5 +1,6 @@
 # The Apollo Project
-Welcome to the **_Apollo_ project!** a project started **(and <ins>_hopefully_</ins> finished)** by shorebanks
+**_Apollo_** is a solo project started by @s-hre
+so if there are any delays, please just be patient.
 > what does **_Apollo_** do for my computer?
 
 Well kind soul, im glad you asked!
