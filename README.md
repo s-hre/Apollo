@@ -19,8 +19,6 @@ how did i do it..? I'm fast, and you're slow, thats how I did it.
 Firstly, go to [Releases]([https://github.com/s-hre/Apollo-Project/releases/tag/v0.1](https://github.com/s-hre/Apollo/releases)) and install `apollo.bat`, you will see a `shaveinstaller.exe` but that is not needed,
 once you install the `apollo.bat` run it! from there, agree, and install!
 
-If you're using the nightly build of apollo it will be almost the same install but you will use the [Nightly Releases](https://github.com/s-hre/Apollo/releases/tag/v0.2.3)
-
 ## NOTICES
 > [!CAUTION]
 > **Apollo** and or **Apollo _Nightly_** DOES have a chance of flagging your computer, so please take caution.
