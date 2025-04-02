@@ -1,5 +1,5 @@
 # The Apollo Project
-**_Apollo_** is a solo project started by [@s-hre](https://github.com/s-hre)
+**_Apollo_** is a solo project started by [@s-hre](https://github.com/s-hre) I am a student, and I have a job.
 so if there are any delays, please just be patient.
 > what does **_Apollo_** do for my computer?
 
@@ -13,7 +13,7 @@ why not? who doesnt wanna play games in class?
 
 how did i do it..? I'm fast, and you're slow, thats how I did it.
 
-please if you can, help with my side project [ArtemisWeb](https://github.com/s-hre/ArtemisWeb)
+
 
 ## How to install
 Firstly, go to [Releases]([https://github.com/s-hre/Apollo-Project/releases/tag/v0.1](https://github.com/s-hre/Apollo/releases)) and install `apollo.bat`, you will see a `shaveinstaller.exe` but that is not needed,
@@ -24,6 +24,9 @@ If you're using the nightly build of apollo it will be almost the same install b
 ## NOTICES
 > [!CAUTION]
 > **Apollo** and or **Apollo _Nightly_** DOES have a chance of flagging your computer, so please take caution.
+
+> [!tip]
+> please if you can, help with my side project [ArtemisWeb](https://github.com/s-hre/ArtemisWeb)
 
 > [!NOTE]
 > **Apollo** and or **Apollo _Nightly_** is not responsible for any, and I mean **_ANY_** misuse of student devices.
