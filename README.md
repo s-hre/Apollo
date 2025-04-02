@@ -1,5 +1,5 @@
 # The Apollo Project
-**_Apollo_** is a solo project started by @s-hre
+**_Apollo_** is a solo project started by [@s-hre](https://github.com/s-hre)
 so if there are any delays, please just be patient.
 > what does **_Apollo_** do for my computer?
 
