@@ -30,7 +30,7 @@ once you install the `apollo.bat` run it! from there, agree, and install!
 > **Apollo** and or **Apollo _Nightly_** is not responsible for any, and I mean **_ANY_** misuse of student devices.
 
 > [!NOTE]
-> **Apollo** and or **Apollo _Nightly_** may not be compatible with your device. PLEASE CHECK THE [SECURITY](https://github.com/s-hre/Apollo/blob/main/COMPATABILITY.md) TAB FOR COMPATIBILITY.
+> **Apollo** and or **Apollo _Nightly_** may not be compatible with your device. PLEASE CHECK THE [COMPATIBILITY](https://github.com/s-hre/Apollo/blob/main/COMPATABILITY.md) TAB FOR COMPATIBILITY.
 
 ### credits
 credits to brody for the idea, inspiration, and coding.
