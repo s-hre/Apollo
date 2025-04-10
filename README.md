@@ -24,7 +24,7 @@ once you install the `apollo.bat` run it! from there, agree, and install!
 > **Apollo** and or **Apollo _Nightly_** DOES have a chance of flagging your computer, so please take caution.
 
 > [!tip]
-> please if you can, help with my side project [ArtemisWeb](https://github.com/s-hre/ArtemisWeb)
+> [ArtemisWeb](https://github.com/s-hre/ArtemisWeb) Has been discontinued until further notice, we apologize.
 
 > [!NOTE]
 > **Apollo** and or **Apollo _Nightly_** is not responsible for any, and I mean **_ANY_** misuse of student devices.
